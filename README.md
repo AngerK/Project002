@@ -15,5 +15,6 @@ Run Project002_Sankey_AllPayer.py from the command line:
 
 You should then see something like this (and a copy will be in your active directory:
 
+![alt text](http://i67.tinypic.com/28wgjef.png)
 
-
+Enjoy!

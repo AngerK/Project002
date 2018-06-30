@@ -10,7 +10,10 @@ Project002_Data_Sankey_Nodes.txt
 Project002_Data_Sankey_Links.txt
 
 Run Project002_Sankey_AllPayer.py from the command line:
+    
     python Project002_Sankey_AllPayer.py
+
+You should then see something like this (and a copy will be in your active directory:
 
 
 

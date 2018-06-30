@@ -1,0 +1,7 @@
+Node|Label|Color
+0|Medicare|Red
+1|Medicaid|Orange
+2|BCBS|Blue
+3|ACO|White
+4|Provider|Green
+5|ACO Operations|White

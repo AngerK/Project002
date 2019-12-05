@@ -11,7 +11,7 @@ Run `python Project002_Sankey_AllPayer.py` from the command line
 
 You should then see something like this (and a copy will be in your current working directory):
 
-![alt text](https://github.com/AngerK/Project002/blob/master/Project002_Sankey.png)
+![alt text](https://github.com/AngerK/Project002/blob/master/Project002_Sankey_Pic.png)
 
 Enjoy!
 
